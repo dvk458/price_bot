@@ -2,3 +2,6 @@
 
 .venv
 venv/
+
+prices.xlsx
+~$prices.xlsx
